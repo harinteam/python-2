@@ -18,10 +18,12 @@ anak.append('Belum tau')
 print(anak)
 
 print('---' * 7)
+
 # Sapa anak ke-2
 print(f'Hai {anak[1]}!')
 
 print('---' * 7)
+
 # Sapa semua anak cara gampang
 for a in anak:
     print(f'Hai {a}')
